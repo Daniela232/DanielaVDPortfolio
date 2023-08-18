@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Daniela's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/e5f6fa1db5.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="header">
+    <div class="container">
+        <nav>
+            <div class="logo">
+                <h1>Portfolio</h1>
+            </div>
+            <ul id="sidemenu">
+                <li><a href="#header">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <i class="fa-solid fa-circle-xmark" onclick="closemenu()"></i>
+            </ul>
+            <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+        </nav>
+        <div class="header-text">
+            <h1>Hi, I'm <span>Daniela</span><br>Valerio Desanero from NYC</h1>
+            <p><span>An Aspiring Software Engineer</span></p>
+        </div>
+    </div>
+</div>
+<!--------------------------about------------------------>
+<div id="about">
+    <div class="container">
+        <div class="row">
+            <div class="about-col-1">
+                <img src="IMG_1850.jpg">
+            </div>
+            <div class="about-col-2">
+                <h1 class="sub-title">About Me</h1>
+                <p> Hi, I am a current college student at Kingsborough Community College studying for an Associates Degree in Computer Science.
+                    In the Spring 2024, I will be transferring to a 4-year college to obtain my Bacherlor's.
+                </p>
+                <div class="tab-tiles">
+                    <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                    <p class="tab-links" onclick="opentab('experience')">Experience</p>
+                    <p class="tab-links" onclick="opentab('education')">Education</p>
+                </div>
+                <div class="tab-contents active-tab" id="skills">
+                    <ul>
+                        <li><span>Programming</span><br>C++, Python, HTML, CSS, JavaScript</li>
+                        <li><span>IT Support</span><br>Troubleshooting, Networking, Admin</li>
+                        <li><span>Soft Skills</span><br>Customer Service, Communication, Problem Solving</li>
+                    </ul>
+                </div>
+                <div class="tab-contents" id="experience">
+                    <ul>
+                        <li><span>June 2023 - August 2023</span><br><strong>IT Management Fellowship at Concern WorldWide US</strong> 
+                            <br>
+                            •	Successfully designed, implemented, and administered SharePoint sites for diverse departments, fostering streamlined collaboration, information sharing, and productivity enhancement.
+                           <br> •	Collaborated with the IT Manager to provide support and assistance to Concern US IT users, ensuring timely resolution of related issues and delivering exceptional desktop support in a hybrid working environment.
+                            <br>•	Provided valuable assistance to the IT Manager in the successful implementation of a bar code-based Assets Management system, streamlining the tracking and management of company assets, resulting in improved inventory accuracy and operational efficiency.
+                            <br>•	Collaborated closely with the IT Manager to implement a robust and secure encryption solution for staff computers, safeguarding sensitive data and protecting the organization against potential security breaches.
+                            </li>
+                        <li><span>2022</span><br><strong>Data Management Co-op at Johnson & Johnson</strong>
+                            <br>•	Identified and defined key metrics and performance indicators, created, and maintained dashboards using PowerBI to drive network planning decision.
+                            <br> •	Analyzed over 50k files to identify what type of data classification files they are.
+                            <br>•	Devised and implemented efficient and secure procedures for data handling and analysis with attention to all technical aspects.
+                            <br>•	Assisted with reports and data extraction when needed.
+                            </li>
+                       
+                    </ul>
+                </div>
+                <div class="tab-contents" id="education">
+                    <ul>
+                        <li><span>2023</span><br><strong>A.S. in Computer Science</strong><br>Kingsborough Community College</li>
+                        <li><span>2025</span><br>John Jay College</li>
+    
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!---------------------------portfolio-->
+<div id="portfolio">
+    <div class="container">
+        <h1 class="sub-title">My Work</h1>
+        <div class="work-list">
+            <div class="work">
+                <img src="CriminalHang.png">
+                <div class="layer">
+                    <h3>Online Web Hangman Game</h3>
+                    <p>This is an online version of the hangman inspired by criminal minds</p>
+                    <a href="https://taupe-dieffenbachia-328a47.netlify.app"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div>
+            </div>
+            <div class="work">
+                <img src="TicTacToe.png">
+                <div class="layer">
+                    <h3>Online Tic Tac Toe Game</h3>
+                    <p>This game is played against the computer</p>
+                    <a href="https://subtle-kataifi-9a2fce.netlify.app"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div>
+            </div>
+            <div class="work">
+                <img src="GitHubC++.png">
+                <div class="layer">
+                    <h3>Random C++ Projects</h3>
+                    <p>A few class assignments that have OOP</p>
+                    <a href="https://github.com/Daniela232/C-Projects/tree/main"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div>
+            </div>
+        </div>
+        <a href="https://github.com/Daniela232?tab=repositories" class="btn">See more</a>
+    </div>
+</div>
+
+<!---------------------------contact-->
+<div id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="contact-left">
+                <h1 class="sub-title">Contact Me</h1>
+                <p><i class="fa-solid fa-paper-plane"></i>desanero24@gmail.com</p>
+                <p><i class="fa-solid fa-phone"></i>347-981-4574</p>
+                <div class="social-icon">
+                    <a href="https://www.linkedin.com/in/daniela-vd/"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="https://github.com/Daniela232?tab=repositories"><i class="fa-brands fa-github"></i></a>
+                </div>
+                <a href="MyResume.pdf" download class="btn btn2">Download My Resume</a>
+            </div>
+            <div class="contact-right">
+                <form name="submit-to-google-sheet">
+                    <input type="text" name="Name" placeholder="Your Name" required>
+                    <input type="email" name="Email" placeholder="Your Email" required>
+                    <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
+                    <button type="submit" class="btn btn2">Submit</button>
+                </form>
+                <span id="msg"></span>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <p>Copyright @ Daniela. Inspired by <i class="fa-solid fa-heart"></i> Easy Tutorials.</p>
+
+    </div>
+</div>
+<script>
+
+    var tablinks = document.getElementsByClassName("tab-links");
+    var tabcontents = document.getElementsByClassName("tab-contents");  
+
+    function opentab(tabname){
+        for (tablink of tablinks){
+            tablink.classList.remove("active-link");
+        }
+        for (tabcontent of tabcontents){
+            tabcontent.classList.remove("active-tab");
+        }
+        event.currentTarget.classList.add("active-link");
+        document.getElementById(tabname).classList.add("active-tab");
+
+    }
+
+
+
+</script>
+<script>
+    var sidemeu = document.getElementById("sidemenu");
+    function openmenu(){
+        sidemeu.style.right = "0";
+    }
+        function closemenu(){
+        sidemeu.style.right = "-200px";
+        }
+</script>
+
+<script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbybvfB8_cABGPmizgqMMZvbdTqLpahs4RdWFal5wY2Of4EzRV0Q2wEyYXpARj6Isz3A/exec'
+    const form = document.forms['submit-to-google-sheet']
+    const msg = document.getElementById("msg");
+  
+    form.addEventListener('submit', e => {
+      e.preventDefault()
+      fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+        .then(response => {
+            msg.innerHTML = "Message sent successfully" 
+        setTimeout(function(){
+            msg.innerHTML = ""}, 5000)
+            form.reset()
+        })
+        .catch(error => console.error('Error!', error.message))
+    })
+  </script>
+
+</body>
+</html>
