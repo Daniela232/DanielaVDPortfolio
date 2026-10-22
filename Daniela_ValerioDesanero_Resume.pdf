@@ -1,0 +1,78 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Type /Pages /Count 1 /Kids [5 0 R] >>
+endobj
+4 0 obj
+<< /Length 4405 >>
+stream
+BT /F2 16 Tf 1 0 0 1 48 754.0 Tm (DANIELA VALERIO DESANERO) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 730.0 Tm (New York, NY | desanero24@gmail.com | 347-981-4574) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 718.5 Tm (linkedin.com/in/daniela-vd | github.com/Daniela232) Tj ET
+BT /F2 10 Tf 1 0 0 1 48 700.0 Tm (SUMMARY) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 683.0 Tm (Cybersecurity and IT professional pursuing an M.S. in Digital Forensics and Cybersecurity.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 671.5 Tm (Experience in identity support, endpoint troubleshooting, security monitoring labs, and Python projects.) Tj ET
+BT /F2 10 Tf 1 0 0 1 48 653.0 Tm (EDUCATION) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 636.0 Tm (M.S., Digital Forensics and Cybersecurity | John Jay College | Expected May 2028) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 624.5 Tm (B.S., Computer Science and Information Security | John Jay College | September 2025) Tj ET
+BT /F2 10 Tf 1 0 0 1 48 606.0 Tm (CERTIFICATIONS) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 589.0 Tm (CompTIA A+ | AWS Certified Cloud Practitioner | Google IT Support Professional) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 577.5 Tm (CompTIA Security+ - In progress) Tj ET
+BT /F2 10 Tf 1 0 0 1 48 559.0 Tm (TECHNICAL SKILLS) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 542.0 Tm (Python, C++, JavaScript, Bash, PowerShell, SQL | Windows, Kali Linux, macOS) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 530.5 Tm (Active Directory, Duo MFA, Microsoft 365, ServiceNow, Track It!, Splunk, Wireshark,) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 519.0 Tm (AWS, Azure, GitHub, VMware, Power BI, Power Automate, Nmap, Snort) Tj ET
+BT /F2 10 Tf 1 0 0 1 48 500.5 Tm (EXPERIENCE) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 483.5 Tm (IT Support Assistant | CUNY John Jay College | New York, NY | Feb 2025 - Present) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 472.0 Tm (- Support university technology services and identity-related requests for 15,000+ users.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 460.5 Tm (- Manage Active Directory account changes and Duo MFA troubleshooting.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 449.0 Tm (- Investigate reported phishing or unusual account activity; resolve hardware, software,) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 437.5 Tm (  and connectivity incidents using ticketing and remote-support tools.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 426.0 Tm (IT Analyst Intern | Rose Associates | New York, NY | Jul 2024 - Aug 2024) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 414.5 Tm (- Built Power BI dashboards using SharePoint and Box data.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 403.0 Tm (- Automated technical audit and data-collection workflows with Power Automate.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 391.5 Tm (- Provisioned and re-imaged enterprise devices and supported SharePoint permissions.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 380.0 Tm (IT Intern | Concern Worldwide US | New York, NY | Jun 2023 - Aug 2023) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 368.5 Tm (- Supported employees with hardware, software, and access issues in a hybrid environment.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 357.0 Tm (- Developed barcode-based asset tracking, improving inventory accountability.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 345.5 Tm (- Supported SharePoint file organization and role-based access.) Tj ET
+BT /F2 10 Tf 1 0 0 1 48 327.0 Tm (SELECTED PROJECTS) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 310.0 Tm (Splunk Malware Investigation | CodePath) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 298.5 Tm (- Correlated simulated web, authentication, and upload events using SPL to investigate) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 287.0 Tm (  suspicious server activity and document malware indicators.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 275.5 Tm (Network DoS Mitigation | CodePath) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 264.0 Tm (- Compared protected and unprotected Slowloris traffic and analyzed TCP sessions) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 252.5 Tm (  in Wireshark after implementing nginx mitigation rules.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 241.0 Tm (AI-Powered Phishing Detection | Python) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 229.5 Tm (- Developed a phishing classification prototype using TF-IDF, sentiment analysis,) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 218.0 Tm (  URL heuristics, and text extraction.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 206.5 Tm (Forensic Recovery and Timeline Reconstruction | Python) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 195.0 Tm (- Built a workflow for file carving, metadata extraction, SHA-256 verification,) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 48 183.5 Tm (  and structured forensic timeline reporting.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000154 00000 n 
+0000000211 00000 n 
+0000004668 00000 n 
+0000004804 00000 n 
+trailer
+<< /Size 7 /Root 6 0 R >>
+startxref
+4853
+%%EOF
