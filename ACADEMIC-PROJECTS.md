@@ -1,3 +1,5 @@
+> **Looking for the pink portfolio page?** [View the styled website version](https://daniela232.github.io/DanielaVDPortfolio/academic-projects.html). This Markdown file is the GitHub source document.
+
 # Academic Programming and Cryptography Projects
 
 This is a public-facing summary of source files provided from academic project archives. Only project descriptions are published here; original archives are **not** redistributed.
