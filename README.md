@@ -37,6 +37,10 @@ Security architecture assessment for a fictional healthcare environment, coverin
 - Proposed least-privilege RBAC and privileged-access controls.
 - Developed recommendations for centralized logging, SIEM, incident response, business continuity, and disaster recovery.
 
+## CodePath Cybersecurity Labs
+
+Explore my [CodePath Cybersecurity Project Showcase](CODEPATH-CYBERSECURITY.md) featuring documented hands-on work in Splunk SIEM investigations, incident response, Wireshark phishing analysis, Linux auditing, intrusion testing, and digital forensics. These descriptions are based on my course submissions and are intentionally sanitized for public sharing.
+
 ## Additional Technical Work
 
 My GitHub also contains earlier programming projects in C/C++, Python, JavaScript, HTML/CSS, and general computer science. These repositories document my progression from foundational programming into cybersecurity and digital forensics.
