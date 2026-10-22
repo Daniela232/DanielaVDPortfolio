@@ -1,3 +1,5 @@
+> **Looking for the pink portfolio page?** [View the styled website version](https://daniela232.github.io/DanielaVDPortfolio/cybersecurity-projects.html). This Markdown file is the GitHub source document.
+
 # CodePath Cybersecurity Project Showcase
 
 This page documents selected hands-on cybersecurity work from CodePath CYB101 and CYB102. The descriptions are based on my course submission write-ups. All work was conducted in educational, simulated, or authorized lab environments. This page intentionally excludes student records, credentials, original malicious payloads, and private Google Docs submissions.
