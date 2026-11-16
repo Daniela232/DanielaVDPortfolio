@@ -48,7 +48,7 @@ Explore the [AI project case studies](https://daniela232.github.io/DanielaVDPort
 - **The Unofficial Guide:** campus-life RAG assistant with custom paragraph chunking, relevance gating, and grounding evaluation. [Repository](https://github.com/Daniela232/ai201-project1-unofficial-guide-starter-v2026)
 - **FitFindr:** natural-language thrift-outfit agent with custom tools, MCP exposure, trace logging, and documented substring-match issue. [Repository](https://github.com/Daniela232/ai201-project2-fitfindr-starter-v2026)
 - **TakeMeter:** DistilBERT three-class classifier on 200 labeled comments; 56.7% accuracy vs. 40% baseline, with speculation F1 = 0.00. [Repository](https://github.com/Daniela232/ai201-project3-takemeter-starter-v2026)
-- **Provenance Guard (capstone in progress):** Flask AI-text scoring API with stylometric analysis, audit logging, adversarial tests, and a pending appeal-ID validation fix. [Repository](https://github.com/Daniela232/ai201-project4-provenance-guard-starter-v2026)
+- **Provenance Guard (completed):** Flask AI-text scoring API with stylometric analysis, audit logging, adversarial tests, and an appeal-ID validation fix that requires an original decision record. [Repository](https://github.com/Daniela232/ai201-project4-provenance-guard-starter-v2026)
 
 The planned AWS Cowrie honeypot project will be added as completed work only after deployment and verified analysis.
 
