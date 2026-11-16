@@ -41,6 +41,17 @@ Security architecture assessment for a fictional healthcare environment, coverin
 
 Explore my [CodePath Cybersecurity Project Showcase](CODEPATH-CYBERSECURITY.md) featuring documented hands-on work in Splunk SIEM investigations, incident response, Wireshark phishing analysis, Linux auditing, intrusion testing, and digital forensics. These descriptions are based on my course submissions and are intentionally sanitized for public sharing.
 
+## Applied AI & Machine Learning Projects
+
+Explore the [AI project case studies](https://daniela232.github.io/DanielaVDPortfolio/ai-projects.html) for honest results and limitations from CodePath AI201:
+
+- **The Unofficial Guide:** campus-life RAG assistant with custom paragraph chunking, relevance gating, and grounding evaluation. [Repository](https://github.com/Daniela232/ai201-project1-unofficial-guide-starter-v2026)
+- **FitFindr:** natural-language thrift-outfit agent with custom tools, MCP exposure, trace logging, and documented substring-match issue. [Repository](https://github.com/Daniela232/ai201-project2-fitfindr-starter-v2026)
+- **TakeMeter:** DistilBERT three-class classifier on 200 labeled comments; 56.7% accuracy vs. 40% baseline, with speculation F1 = 0.00. [Repository](https://github.com/Daniela232/ai201-project3-takemeter-starter-v2026)
+- **Provenance Guard (capstone in progress):** Flask AI-text scoring API with stylometric analysis, audit logging, adversarial tests, and a pending appeal-ID validation fix. [Repository](https://github.com/Daniela232/ai201-project4-provenance-guard-starter-v2026)
+
+The planned AWS Cowrie honeypot project will be added as completed work only after deployment and verified analysis.
+
 ## Additional Technical Work
 
 My GitHub also contains earlier programming projects in C/C++, Python, JavaScript, HTML/CSS, and general computer science. These repositories document my progression from foundational programming into cybersecurity and digital forensics.
